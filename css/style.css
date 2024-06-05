@@ -1,0 +1,76 @@
+.box {
+  width: 100%;
+  height: 600px;
+  background-color: rgb(201, 184, 184);
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#heading {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#qn1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.box1 {
+  width: 100%;
+  height: 50px;
+  border: 2px solid black;
+  background-color: rgb(143, 184, 218);
+}
+.box2 {
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  border: 2px solid black;
+  font-weight: 300px;
+  font-size: larger;
+  background-color: rgb(143, 184, 218);
+}
+.box3 {
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  border: 2px solid black;
+  background-color: rgb(143, 184, 218);
+}
+.footer {
+  width: 100%;
+  height: 50px;
+  border: 2px solid black;
+  background-color: rgb(143, 184, 218);
+}
+.button1 {
+  width: fit-content;
+  height: 30px;
+  background-color: rgb(169, 174, 174);
+  border-radius: 2px;
+}
+#one {
+  font-size: large;
+}
+#three {
+  font-size: large;
+}
+.htm {
+  position: relative;
+  bottom: -105px;
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.answer {
+  width: fit-content;
+  position: relative;
+  top: 40px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgb(189, 184, 184);
+}
